@@ -18,7 +18,7 @@ The repository contains implementations of several machine learning approaches f
 
 ## Data
 
-The models are trained using photometric parameters such as galaxy colors derived from astronomical survey data.
+The models are trained using photometric parameters, such as the colors of galaxies in different color filters, obtained from astronomical survey data.
 
 Example features:
 
